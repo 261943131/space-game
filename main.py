@@ -657,7 +657,7 @@ def name_page():
     color_active = pygame.Color('dodgerblue2')
     color = color_inactive
     user_text = ''
-    placeholder_text = 'Enter your name'
+    placeholder_text = 'Enter name and press enter'
 
     active = False
     # Checking events and assign text user write to a variable
